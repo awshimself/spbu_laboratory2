@@ -4,3 +4,7 @@
 # Контакты
 - email: <asvtiltewww@proton.me>
 - telegram: [@aaateteQ](https://t.me/aaateteQ)
+
+# Одногруппники
+
+- ФИО: <Лызин Арсений Игоревич>
