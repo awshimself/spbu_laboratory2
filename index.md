@@ -8,3 +8,5 @@
 # Одногруппники
 
 - ФИО: <Лызин Арсений Игоревич>
+- email: <st153585@student.spbu.ru>
+- github: <https://github.com/AnUbiSaF>
